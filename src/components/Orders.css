@@ -1,0 +1,9 @@
+.mk {
+  display: flex;
+  flex-direction: row;
+
+  margin-left: 80px;
+  padding-top: 50px;
+  margin-top: -150px;
+  justify-content: space-around;
+}

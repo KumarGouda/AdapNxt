@@ -1,0 +1,54 @@
+.btn {
+  color: rgb(194, 36, 75);
+}
+.da {
+  margin-left: 50px;
+  justify-items: right;
+}
+.order-table {
+  border-collapse: separate;
+  color: rgb(238, 43, 150);
+  border-spacing: 1 15px;
+  margin: 8px;
+  padding: 25px;
+
+  width: 1200px;
+}
+.gg {
+  color: rgb(39, 196, 117);
+}
+.order-table tbody tr.num {
+  height: 100px;
+}
+.order-table-container {
+  position: relative;
+}
+.refresh-button {
+  position: absolute;
+  top: -15px;
+  right: 10px;
+  text-align: center;
+  display: flex;
+
+  gap: 5px;
+  padding: 5px;
+  background-color: rgb(35, 122, 50);
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-right: -10px;
+}
+.refresh-button img {
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+}
+.image1 img {
+  height: 30px;
+  width: 30px;
+}
+
+.rec img {
+  height: 20px;
+  width: 20px;
+}
